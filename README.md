@@ -1,6 +1,8 @@
 # H9 Launcher CommandScripts
 An easy-to-use script launcher
 
+This repository is to inform everyone that the scripts running in H9 Launcher can be custom-made in addition to being downloaded directly within the H9 Launcher. Just follow the template rules provided below.
+
 ### How to use H9 Launcher
 
 It's simple to use H9 Launcher.
