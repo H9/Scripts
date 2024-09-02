@@ -1,0 +1,12 @@
+name: Hello World
+description: print hello world
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: helloworld
+arguments: []
+environments:
+  - macos
+tags:
+  - System
+  - Productivity

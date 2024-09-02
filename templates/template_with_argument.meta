@@ -1,0 +1,17 @@
+name: Hello X
+description: print hello x
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: hello
+arguments: 
+  - name: realname
+    type: string
+    placeholder: Real Name
+    optional: false
+    description: the realname you want to say hello
+environments:
+  - macos
+tags:
+  - System
+  - Productivity
