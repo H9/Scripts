@@ -1,0 +1,12 @@
+name: Settings
+description: Open the Settings app on macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: settings
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - configuration

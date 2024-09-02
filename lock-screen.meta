@@ -1,0 +1,12 @@
+name: Lock Screen
+description: Lock the screen on macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: lockscreen
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - security

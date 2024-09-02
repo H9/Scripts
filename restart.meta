@@ -1,0 +1,12 @@
+name: Restart
+description: Restart system.
+author: Bin Hua
+website: https://binhua.org
+type: applescript
+command: restart
+arguments: []
+environments:
+  - macos
+tags:
+  - System
+  - Productivity

@@ -1,0 +1,12 @@
+name: Empty Trash
+description: Empty the trash on macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: emptytrash
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - cleanup

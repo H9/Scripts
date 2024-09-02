@@ -1,0 +1,17 @@
+name: Open Folder
+description: Open a folder on macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: openfolder
+arguments:
+  - name: folder_path
+    type: string
+    placeholder: Path to folder
+    optional: false
+    description: The path of the folder to open
+environments:
+  - macos
+tags:
+  - System
+  - Productivity

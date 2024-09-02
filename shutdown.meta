@@ -1,0 +1,12 @@
+name: Shutdown
+description: Shutdown macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: shutdown
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - power
