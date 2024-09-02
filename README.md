@@ -1,14 +1,13 @@
 # H9 Launcher CommandScripts
 An easy-to-use script launcher
 
-### How to use
+### How to use H9 Launcher
 
 It's simple to use H9 Launcher.
 
-- Clone this repo to your Mac
 - Download H9 Launcher from [Here](https://res.binhua.org/dl/H9.dmg).
-- Set the `path` in H9 Launcher app
-  ![settings-path](https://github.com/user-attachments/assets/0a5db9db-c3a2-4e39-8df6-2714c2f99b24)
+- Download all scripts via `H9 app -> Settings` or download all scripts in this repo and put them in `~/.h9launcher/commandscripts`
+- Set `Hotkey` to call the launcher
 - That's all
 
 **Please note: only Bash, AppleScript, Swift for now.**
