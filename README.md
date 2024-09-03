@@ -7,7 +7,7 @@ This repository is to inform everyone that the scripts running in H9 Launcher ca
 
 It's simple to use H9 Launcher.
 
-- Download H9 Launcher from [Here](https://res.binhua.org/dl/H9.dmg).
+- Download H9 Launcher from [Here](https://binhua.org/h9).
 - Download all scripts via `H9 app -> Settings` or download all scripts in this repo and put them in `~/.h9launcher/commandscripts`
 - Set `Hotkey` to call the launcher
 - That's all
