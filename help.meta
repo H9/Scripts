@@ -1,0 +1,13 @@
+name: Help
+description: Open the help page (https://bihua.org/h9) in the default browser
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: help
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - help
+  - documentation

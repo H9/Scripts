@@ -1,0 +1,17 @@
+name: Go to
+description: Open a folder on macOS or open website on Browser
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: goto
+arguments:
+  - name: folder_path
+    type: string
+    placeholder: Path to folder
+    optional: false
+    description: The path of the folder to open
+environments:
+  - macos
+tags:
+  - System
+  - Productivity

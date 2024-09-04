@@ -1,0 +1,12 @@
+name: Open Finder
+description: Open the Finder application on macOS
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: finder
+arguments: []
+environments:
+  - macos
+tags:
+  - system
+  - file management

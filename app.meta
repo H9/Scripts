@@ -1,0 +1,18 @@
+name: App Manager
+description: Open macOS applications by name with fuzzy matching
+author: Bin Hua
+website: https://binhua.org
+type: bash
+command: app
+arguments:
+  - name: app_name
+    type: string
+    placeholder: App name
+    optional: false
+    description: Name of the application to open (fuzzy matching supported)
+environments:
+  - macos
+tags:
+  - system
+  - application
+  - launcher
